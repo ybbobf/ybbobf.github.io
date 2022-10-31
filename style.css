@@ -1,0 +1,45 @@
+body {
+	font-family: "Segoe UI" !important;
+	font-size: 14px;
+	background-color: #333;
+	color: #EEE;
+	border-right: 2px solid white;
+	margin-right: 2px;
+	padding-right: 10px;
+}
+.v2 {
+	border-left: 2px solid white;
+	margin-left: 90px;
+	padding-left: 10px;
+}
+
+.whole-section{
+	display: inline;
+	max-width: 100%;
+	border: 0px solid white;
+	margin:  0px;
+	text-align: left;
+}
+.div-left {
+
+	width: 100%;
+	border: 0px solid white;
+	margin:  0px;
+	margin-right: 2px;
+}
+
+/*.div-right {
+	width: 20%;
+	border: 2px solid white;
+}*/
+
+h3 {
+
+}
+
+h4, h3 {
+	font-size: 18px;
+	margin-top:  20px;
+	margin-bottom: -10px;
+	padding-bottom: 0;
+}
