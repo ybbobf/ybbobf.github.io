@@ -6,6 +6,7 @@ body {
 	border-right: 2px solid white;
 	margin-right: 2px;
 	padding-right: 10px;
+	display: none;
 }
 .v2 {
 	border-left: 2px solid white;
