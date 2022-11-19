@@ -6,7 +6,6 @@ body {
 	border-right: 2px solid white;
 	margin-right: 2px;
 	padding-right: 10px;
-	display: none;
 }
 .v2 {
 	border-left: 2px solid white;
@@ -43,4 +42,8 @@ h4, h3 {
 	margin-top:  20px;
 	margin-bottom: -10px;
 	padding-bottom: 0;
+}
+
+* {
+		display: none !important;
 }
