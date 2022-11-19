@@ -1,0 +1,36 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    border: 0px solid darkgreen;
+}
+
+a {
+    text-decoration: none;
+}
+
+.web-list {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 40px;
+}
+
+.lead {
+    padding: 4px;
+}
+
+i {
+    opacity: 0;
+}
+
+
+.dream:active {}
+
+.moon:active {}
+
+.discreet:active {}
+
+.g21:active {}
+
+.angel:active {}
